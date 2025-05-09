@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-lich
+  x-cortex-tag: monster-lich
+  x-cortex-custom-metadata:
+    alignment: chaotic-evil
+    type: undead
+    challenge_rating: 21
+    legendary: true
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-lich
+      alias: github-token-test
