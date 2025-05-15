@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-lich
+  x-cortex-tag: monster-lich
+  x-cortex-custom-metadata:
+    alignment: neutral-good
+    type: celestial
+    challenge_rating: 11
+    legendary: true
+    armor_class: 22
+    hit_points: 201
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-lich
+      alias: github-token-test
